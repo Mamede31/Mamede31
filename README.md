@@ -2,4 +2,5 @@
   
 
 -🎓 Faço técnico em informática
+
 -📫 Contate-me com o email: 
